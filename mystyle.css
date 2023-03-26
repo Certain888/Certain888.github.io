@@ -1,8 +1,18 @@
+
 body {
-  background-color: lightblue;
+  background-color: #543F59;
 }
 
-h1 {
-  color: navy;
-  margin-left: 20px;
+.headers {
+  font-family: "Comic Sans MS", cursive, sans-serif	
+;
+}
+
+.small-fonts {
+   font-family: 'Sofia';font-size: 45px;
+}
+
+.tutorial-font {
+      font-family: 'Annie Use Your Telescope';font-size: 22px;
+
 }
